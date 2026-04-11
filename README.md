@@ -7,8 +7,8 @@ for learners (kids, parents, and hobbyists) to explore electronics and embedded 
 This repository contains:
 - 📘 Step-by-step **Getting Started guides**
 - 🔧 **Basic Projects** → simple, single-component experiments
-- ⚡ **Intermediate Projects** → coming soon (by 31st Dec 2025)
-- 🌟 **Advanced Projects** → coming soon (starting Feb 2026)
+- ⚡ **Intermediate Projects** → Multi-component experiments.
+- 🌟 **Advanced Projects** → coming soon (starting July 2026)
 - 📂 **General Docs** → datasheets, pinouts, schematics
 - 🛡️ All content branded and maintained by **AYNOP**
 
@@ -20,8 +20,8 @@ This repository contains:
 UNO-Launchpad-Kit/
 ├── 00_Getting_Started/        → Setup instructions & environment guides
 ├── 01_Basic_Projects/         → Simple, single-component experiments
-├── 02_Intermediate_Projects/  → Intermediate projects (coming soon by 31st Dec 2025)
-├── 03_Advanced_Projects/      → Advanced projects (starting Feb 2026)
+├── 02_Intermediate_Projects/  → Multi-component experiments.
+├── 03_Advanced_Projects/      → Advanced projects (starting July 2026)
 ├── 04_General_Docs/           → Datasheets, pinouts, schematics
 ├── LICENSE                    → Creative Commons BY-NC-SA 4.0 license
 └── README.md                  → You are here
@@ -46,8 +46,8 @@ UNO-Launchpad-Kit/
 Your journey doesn’t stop here! 🚀  
 We’re actively building more content to keep your learning exciting:
 
-- ⚡ **Intermediate Projects** → arriving by **Dec 2025**
-- 🌟 **Advanced Projects** → starting from **Feb 2025**
+- ⚡ **Intermediate Projects** → Released **Quarterly**, if valuable additions are identified
+- 🌟 **Advanced Projects** → starting from **July 2025**
 
 ✅ All updates will be **free for existing users** and downloadable from the **same link** you used
 for this kit. 💙

@@ -5,7 +5,7 @@
  * Created:     11-09-2025
  * Version:     1.0
  * Target:      Arduino UNO R4 Minima
- * IDE:         Arduino IDE 2.3.6 or later
+ * IDE:         Arduino IDE 2.3.7 or later
  *
  * Description:
  *   This project demonstrates how to use a 16x2 LCD with I2C interface.
@@ -23,18 +23,19 @@
  *   prohibited. Refer to the LICENSE file for complete details.
  ****************************************************************************/
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+#include <hd44780.h>
+#include <hd44780ioClass/hd44780_I2Cexp.h>
 
-// Create LCD object (address 0x27, 16 chars, 2 lines)
-LiquidCrystal_I2C lcd(0x27, 16, 2);
+// Create LCD object (auto-detect I2C address)
+hd44780_I2Cexp lcd;
 
 // Messages to display
 String line1 = "Hello Genius";
 String line2 = "AYNOP Enterprises";
 
 void setup() {
-  lcd.init();       // Initialize I2C LCD
-  lcd.backlight();  // Turn on LCD backlight
+  lcd.begin(16, 2);   // Initialize LCD
+  lcd.backlight();    // Turn on LCD backlight
 }
 
 void loop() {
