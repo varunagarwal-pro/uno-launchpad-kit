@@ -8,7 +8,7 @@ This repository contains:
 - 📘 Step-by-step **Getting Started guides**
 - 🔧 **Basic Projects** → simple, single-component experiments
 - ⚡ **Intermediate Projects** → Multi-component experiments.
-- 🌟 **Advanced Projects** → coming soon (starting July 2026)
+- 🌟 **Advanced Projects** → Complex, real-world projects
 - 📂 **General Docs** → datasheets, pinouts, schematics
 - 🛡️ All content branded and maintained by **AYNOP**
 
@@ -21,7 +21,7 @@ UNO-Launchpad-Kit/
 ├── 00_Getting_Started/        → Setup instructions & environment guides
 ├── 01_Basic_Projects/         → Simple, single-component experiments
 ├── 02_Intermediate_Projects/  → Multi-component experiments.
-├── 03_Advanced_Projects/      → Advanced projects (starting July 2026)
+├── 03_Advanced_Projects/      → Complex, real-world projects
 ├── 04_General_Docs/           → Datasheets, pinouts, schematics
 ├── LICENSE                    → Creative Commons BY-NC-SA 4.0 license
 └── README.md                  → You are here
@@ -47,7 +47,7 @@ Your journey doesn’t stop here! 🚀
 We’re actively building more content to keep your learning exciting:
 
 - ⚡ **Intermediate Projects** → Released **Quarterly**, if valuable additions are identified
-- 🌟 **Advanced Projects** → starting from **July 2025**
+- 🌟 **Advanced Projects** → Released **Quarterly**, if valuable additions are identified
 
 ✅ All updates will be **free for existing users** and downloadable from the **same link** you used
 for this kit. 💙

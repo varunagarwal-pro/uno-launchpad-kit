@@ -50,5 +50,5 @@ void loop() {
 
   Serial.println("----------------------");
 
-  delay(2000);   // Wait 2 seconds before next reading
+  delay(3000);   // Wait 3 seconds before next reading
 }
