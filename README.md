@@ -38,7 +38,11 @@ UNO-Launchpad-Kit/
 2. 📥 Follow the PDF guides to install the Arduino IDE and connect your UNO R4 Minima.
 3. 💻 Open any `.ino` file inside `01_Basic_Projects/` using the Arduino IDE.
 4. ⚡ Upload the code to your board and watch it come alive!
+---
 
+## ⚡Training Materials
+1. 💡 https://chatgpt.com/g/g-68e11aa1523c8191b873b80f3ce9283e-aynop-unobot
+2. 💻 https://youtube.com/playlist?list=PL7987F30C41A9ADCB&si=o_282UdpHyD3-hd-
 ---
 
 ## 🌟 What’s Next?
