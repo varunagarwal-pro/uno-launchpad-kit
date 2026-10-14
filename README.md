@@ -41,8 +41,13 @@ UNO-Launchpad-Kit/
 ---
 
 ## ⚡Training Materials
+
 1. 💡 https://chatgpt.com/g/g-68e11aa1523c8191b873b80f3ce9283e-aynop-unobot
 2. 💻 https://youtube.com/playlist?list=PL7987F30C41A9ADCB&si=o_282UdpHyD3-hd-
+---
+## 💻Official Distributor of Arduino Boards and Raspberry
+
+1. https://www.thingbits.in/products/arduino-uno-r4-wifi
 ---
 
 ## 🌟 What’s Next?
